@@ -1,0 +1,32 @@
+{
+    "location": "https://github.com/hidrodixtion/example-json-api.git",
+    "number_of_commits": "9",
+    "tests_of_commits": [
+        {
+            "commit": "93d0aba22b88f341409464d69fbeb4189ce347c6",
+            "num_of_changed_files": 10,
+            "num_of_addition": 50
+        }
+    ]
+}
+
+{
+    "firstName": "Abdullahi",
+    "lastName": "Yahaya",
+    "hobbies": [
+        "Researching",
+        "Playing Tennis",
+        "learning"
+    ],
+    "age": 30,
+    "children": [
+        {
+            "firstName": "Saheed",
+            "Lastname": "Yahaya"
+        },
+    ]
+    "wife": {
+        "firstname": "Aziizat",
+        "Lastname": "Yahaya"
+    }
+}
